@@ -1,0 +1,10 @@
+{
+  "name": "llm-script",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.6.1",
+    "openai": "^4.38.0"
+  }
+}
